@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTINF:-1,""""Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,"""Gradski trg Subotica
+https://5a4e346f7b586.streamlock.net:1935/uzivo/gradski-trg.stream/index.m3u8
+#EXTINF:-1,"""Subotica-Palić
+https://5a4e346f7b586.streamlock.net:1935/uzivo/palic.stream/index.m3u8
+#EXTINF:-1,"""Subotica-plava fontana
+https://5a4e346f7b586.streamlock.net:1935/uzivo/plava-fontana.stream/index.m3u8
+#EXTINF:-1,"""МАТЬ РОДИНА РОССИА
+http://flussonic.powernet.com.ru:8080/user81415/tracks-v1/index.m3u8
+#EXTINF:-1,""FailArmy
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecd9169d2d4000864a974/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,""Just For Laughs Gags
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8?p=roku&rdid=d3e60034-bdd6-5f69-a7a8-a82b92d5b116&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=3846e8e55bbe5d5c9032018b9384308a&genre=comedy&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID&bmodel=bm1&studio_id=just_for_laughs&channelStore=us&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,"JУРИJA ГАГАРИНА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/gagarina.m3u8
+#EXTINF:-1,"АДА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/ada.m3u8
+#EXTINF:-1,"АУТОКОМАНДА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/autokomanda.m3u8
+#EXTINF:-1,"БОГОСЛОВИJA"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/bogoslovija.m3u8
+#EXTINF:-1,"БРАНКОВ МОСТ"- БЕОГРАД- камера
+https://streamer.devnet.rs/hls/brankov.m3u8
+#EXTINF:-1,"БУЛЕВАР ДЕСПОТА СТЕФАНА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/despotastefana.m3u8
+#EXTINF:-1,"ВУКОВ СПОМЕНИК"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/vuk.m3u8
+#EXTINF:-1,"ГАЗЕЛА"- БЕОГРАД- камера
+https://streamer.devnet.rs/hls/gazela.m3u8
+#EXTINF:-1,"ГЕНЕКС"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/genex.m3u8
+#EXTINF:-1,"ЖЕЛЕЗНИЧКА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/zeleznicka.m3u8
+#EXTINF:-1,"МИХАJЛА ПУПИНА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/pupina.m3u8
+#EXTINF:-1,"МОСТАРСКА ПЕТЛЬА"-БЕОГРАД-камере
+https://streamer.devnet.rs/hls/mostar.m3u8
+#EXTINF:-1,"ОПШТИНА НОВИ БЕОГРАД"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/opstinanbg.m3u8
+#EXTINF:-1,"ПАЧЕВАЧКИ МОСТ"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/pancevac.m3u8
+#EXTINF:-1,"СЛАВИJА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/slavija.m3u8
+#EXTINF:-1,"ТАКОВСКА"-БЕОГРАД"-камера
+https://streamer.devnet.rs/hls/takovska.m3u8
+#EXTINF:-1,"ТРГ НИКОЛЕ ПАШИЧА"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/trgnikole.m3u8
+#EXTINF:-1,"ТРГ РЕПУБЛИКЕ"-БЕОГРАД-камера
+https://streamer.devnet.rs/hls/trgrepublike.m3u8
+#EXTINF:-1,ADRIA Music (1080p)
+https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
+#EXTINF:-1,AL JAZEERA SD
+http://live-hls-web-ajb.getaj.net/AJB/04.m3u8
+#EXTINF:-1,AURORA TV
+http://85.94.81.190:8844/sdi/aurora.m3u8
+#EXTINF:-1,B1 TV (1080p) [Not 24/7]
+http://proxy.bihnet.net:88/live/b1tv.m3u8
+#EXTINF:-1,BALKAN MUSIC
+http://163.172.88.94:12989/live/Balkan.Music.MK/7Io7o7Q6o2/1.m3u8
+#EXTINF:-1,BALKANIKA
+rtsp://stream.teracomm.bg/balkanika
+#EXTINF:-1,BANOVINA-muzički
+http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
+#EXTINF:-1,BELLEAMIE NIS
+http://92.60.238.10:1935/live/belleamie/index.m3u8
+#EXTINF:-1,BN TV (480p)
+https://dns2.rtvbn.com:8080/live/index.m3u8
+#EXTINF:-1,DUGA+
+http://109.92.29.10:1935/tvduga/tvduga/index.m3u8
+#EXTINF:-1,Djak TV (720p)
+https://srv1.adriatelekom.com/DjakTV/index.m3u8
+#EXTINF:-1,Film select 480p Croatia
+http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1,GTV Gorenjska SLO
+http://91.220.221.60/gtv_hls/gtv_03.m3u8
+#EXTINF:-1,Glas Drine
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+#EXTINF:-1,Glazba muzički
+http://muzzik-live.morescreens.com/mts-a7/chunklist.m3u8
+#EXTINF:-1,HB Herceg Bosna
+http://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
+#EXTINF:-1,HRAM
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1,HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
+#EXTINF:-1,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1,HRT 3
+http://195.29.70.84/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:-1,HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
+#EXTINF:-1,HRT International
+http://portal.ott.pink/watch/7044/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1,IDJTV HD
+https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
+#EXTINF:-1,JEKA-muzički
+http://muzzik-live.morescreens.com/mts-4/chunklist.m3u8
+#EXTINF:-1,JUPOK ROZAJE
+https://live.prd.dlive.tv/hls/live/jupok.m3u8
+#EXTINF:-1,Jupok Rozaje(b)
+https://edge1-eu-west.picarto.tv/stream/golive+jupokradio.mp4
+#EXTINF:-1,JЕФИМИJA
+http://212.200.108.253/live/jefimija.m3u8
+#EXTINF:-1,K1
+http://www.angelfire.com/musicals/enes/orionski/k1.m3u8
+#EXTINF:-1,KURIR TV
+http://51.15.154.138/providus/live2805_hq/index.m3u8
+#EXTINF:-1,MOST TV ZVECAN
+http://5.206.237.66:9000/play/a02y
+#EXTINF:-1,MUZZIK-muzički
+http://muzzik-live.morescreens.com/mts-6/chunklist.m3u8
+#EXTINF:-1,Maribor-Slovenija
+https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1,Muzika-Mediteraneo
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1,Muzika-RADIO S
+https://sradio.ipradio.rs/sradio/radiostv/index.m3u8
+#EXTINF:-1,Muzika-Veseljak(Slo)
+https://stream.veseljak.tv/hls/stream.m3u8
+#EXTINF:-1,Muzika-b1 TV
+http://wowza.bihnet.net:88/hls/b1-live.m3u8
+#EXTINF:-1,N1 BiH
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,N1 Hrvatska
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,N1 Slovenija
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1slv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,N1 Srbija
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,OKK-muzički
+http://muzzik-live.morescreens.com/mts-2/chunklist.m3u8
+#EXTINF:-1,OTV Hrvatska
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x654gen
+#EXTINF:-1,POP STAR-muzički
+http://muzzik-live.morescreens.com/mts-3/chunklist.m3u8
+#EXTINF:-1,PULS Silovo
+http://5.206.237.66:9000/play/a03f
+#EXTINF:-1,Pruga tv
+https://stream.pruga.rs:8443/live/pruga/index.m3u8
+#EXTINF:-1,RED TV
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
+#EXTINF:-1,RETRO TV-muzički
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,RIVIERA muzički
+http://muzzik-live.morescreens.com/mts-a5/chunklist.m3u8
+#EXTINF:-1,ROCK-muzički
+http://muzzik-live.morescreens.com/mts-1/chunklist.m3u8
+#EXTINF:-1,RTCG SAT
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
+#EXTINF:-1,RTK 2
+http://84.22.56.10:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1,RTKrusevac
+http://91.148.123.53:8888/ipvt_009
+#EXTINF:-1,RTL 2 Hrv
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+#EXTINF:-1,RTL ADRIA
+https://d2vu211n51feu6.cloudfront.net/rtl-adria/playlist.m3u8
+#EXTINF:-1,RTL CRIME hrv
+https://djcm0qygn4i0x.cloudfront.net/rtl-crime/playlist_hd1.m3u8
+#EXTINF:-1,RTL HRVATSKA
+http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1,RTL KOCKICA
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1,RTL LIVING
+https://dunfmbmkf5wpd.cloudfront.net/rtl-living/playlist.m3u8
+#EXTINF:-1,RTL PASSION
+https://d2qz0cwq7kw2wp.cloudfront.net/rtl-passion/playlist.m3u8
+#EXTINF:-1,RTR Rozaje
+https://live.prd.dlive.tv/hls/live/rtrozaje.m3u8
+#EXTINF:-1,RTV MIR Leposavic 
+http://91.187.119.106:8027/rtvmir/index.m3u8
+#EXTINF:-1,RTV MIR(b)Leposavic
+http://91.187.119.106:8028/tvmir.m3u8
+#EXTINF:-1,RTV NOVI PAZAR
+http://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:-1,SANDZAK TV
+https://vod1.laki.eu/sandzak/video.m3u8
+#EXTINF:-1,SANDZAK TV(b)
+http://streaming.iptv.nextfiber.rs/playlist.m3u8?id=11
+#EXTINF:-1,SEHARA Filmski
+http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8
+#EXTINF:-1,SEHARA Muzicki
+http://ip2.xxlservices.com:8081/seharatv/live/playlist.m3u8
+#EXTINF:-1,SENSE
+http://muzzik-live.morescreens.com/mts-7/chunklist.m3u8
+#EXTINF:-1,SLAVONSKA TV
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1,SLO 1
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1,SLO 2
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1,SLO 3
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1,SUPER TV
+http://51.15.86.254:8080/live/mirtv/index.m3u8
+#EXTINF:-1,Sky Folk Hd Music Makedonija Tv 
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1,Slon Bosna Tv
+http://31.47.0.130:8082
+#EXTINF:-1,Stara Pazova
+rtmp://bk.ddstream.info:1935/mylive/rtvsp/rtvsp
+#EXTINF:-1,TK TURIST
+rtmp://91.148.117.134/tkturist/tkturist
+#EXTINF:-1,TREX-muzički
+http://muzzik-live.morescreens.com/mts-8/chunklist.m3u8
+#EXTINF:-1,TSD TV SRPSKA DIJASPORA
+http://live.tsd-tv.com/live/tsd.m3u8
+#EXTINF:-1,TV 5-ISLAM-"verski"
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1,TV BAP
+http://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/chunklist.m3u8
+#EXTINF:-1,TV KOPER-Slo
+https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1,TV MMC-Slo
+https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1,TV PI PIROT
+http://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1,TV Teuta HD
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tanjug
+http://www.angelfire.com/musicals/enes/orionski/tanjug.m3u8
+#EXTINF:-1,Tesla vision
+http://192.99.6.113:1935/live/Tesla_360p/index.m3u8
+#EXTINF:-1,VESTI
+http://www.angelfire.com/musicals/enes/orionski/vesti.m3u8
+#EXTINF:-1,WORLD-muzički
+http://muzzik-live.morescreens.com/mts-5/chunklist.m3u8
+#EXTINF:-1,ZZ muzički
+http://muzzik-live.morescreens.com/mts-a4/chunklist.m3u8
+#EXTINF:-1,tv 7 Podgorica
+http://uk4.streamingpulse.com:1935/tehnikatv777/tehnikatv777/index.m3u8
+#EXTINF:-1,АС тв Шабац
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1,ГОРАЖДЕ-камера 2
+https://webtvstream.bhtelecom.ba/gorazde_cam2.m3u8
+#EXTINF:-1,ГОРАЖДЕ-камерв
+https://webtvstream.bhtelecom.ba/gorazde_cam.m3u8
+#EXTINF:-1,Канал 8-Македониja
+http://kanal8.hugo.mk:1935/live/kanal8/chunklist.m3u8
+#EXTINF:-1,М НЕТ ИНФО-Македониja
+https://ares.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:-1,М НЕТ КИДС-Македониja
+https://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1,Македонски документарни канал
+https://ares.mnet.mk/hls/macdoc.m3u8
+#EXTINF:-1,Наша тв Македониjа
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1,Орбис тв Мак.
+http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8
+#EXTINF:-1,РТРС
+https://parh.rtrs.tv/tv/live/playlist.m3u8
+#EXTINF:-1,РТРС plus
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+#EXTINF:-1,САРАJЕВО"ДОЛАЦ-МАЛТА"-камера
+https://webtvstream.bhtelecom.ba/malta.m3u8
+#EXTINF:-1,СИТЕЛ-Македониа
+http://51.178.133.43:8081/tvstanici/s1/chunks.m3u8
+#EXTINF:-1,Сител Македониjа
+http://51.178.133.43:8081/tvstanici/s1/chunks.m3u8
+#EXTINF:-1,ТВ 5 Македониа
+http://51.195.90.133:8081/tvstanici/2/chunks.m3u8
+#EXTINF:-1,ХУГО-Македониja
+http://zdravkin.hugo.mk:1935/live/zdravkin/chunklist.m3u8
